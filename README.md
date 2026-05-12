@@ -22,7 +22,7 @@ A modern Discord suggestion & feedback bot built with **discord.js v14**. It all
 
 2. **Install dependencies**:
    ```bash
-   npm install
+   npm install discord.js
    ```
 
 3. **Configure the bot**:
